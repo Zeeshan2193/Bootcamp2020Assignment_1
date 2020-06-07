@@ -18,8 +18,10 @@ function App() {
         >
           Learn React With Detail Method
         </a>
+        <p>Be a logical and good programmer needs effort and work hard daily</p>
         <p>Hello & Assalam-0-Alikum from Zeeshan Ali Rajpoot</p>
         <h2>Thanks</h2>
+
       </header>
     </div>
   );
