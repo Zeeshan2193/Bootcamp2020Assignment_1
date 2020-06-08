@@ -27,7 +27,7 @@ function App() {
     
   );
   const teachers = ['Ali', 'Usman', 'Waqas', 'Zakriya', 'Shan']
-    const titles= teacher.map( name => 'Mr. ' + name)
+    const titles= teachers.map( name => 'Mr. ' + name)
     console.log (titles)
 }
 
