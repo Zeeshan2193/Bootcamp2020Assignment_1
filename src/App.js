@@ -24,7 +24,11 @@ function App() {
 
       </header>
     </div>
+    
   );
+  const teachers = ['Ali', 'Usman', 'Waqas', 'Zakriya', 'Shan']
+    const titles= teacher.map( name => 'Mr. ' + name)
+    console.log (titles)
 }
 
 export default App;
